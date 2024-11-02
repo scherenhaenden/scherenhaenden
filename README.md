@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Activity Graph -->
-[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=1a1b27&color=ffffff&line=f97583&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=ff00ff&color=000000&line=000000&point=00f5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=30,00f5ff,ff00ff,233aa8&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=30,ffffff,ffffff,ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=scherenhaenden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
