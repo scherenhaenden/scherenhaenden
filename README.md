@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact&show_icons=true&bg_color=30,00f5ff,ff00ff,000000)
+
 
