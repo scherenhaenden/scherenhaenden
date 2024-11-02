@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=000000&text_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=000000&text_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact&show_icons=true&bg_color=30,00f5ff,ff00ff,233aa8&title_color=000000&text_color=000000)
 
 
