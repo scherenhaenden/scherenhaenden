@@ -24,5 +24,30 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=scherenhaenden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- GitHub Stats Card -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=ffffff&text_color=ffffff)
+
+<!-- Top Languages Card - Default Layout -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden)
+
+<!-- Top Languages Card - Compact Layout -->
+![Top Langs Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact)
+
+<!-- GitHub Profile Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=scherenhaenden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=scherenhaenden&theme=radical)](https://git.io/streak-stats)
+
+<!-- Readme Typing SVG (Animated Typing Effect) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+scherenhaenden;Welcome+to+my+profile!)](https://github.com/DenverCoder1/readme-typing-svg)
+
+<!-- GitHub Activity Graph -->
+[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=scherenhaenden&bg_color=1a1b27&color=ffffff&line=f97583&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Profile View Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=scherenhaenden&color=brightgreen)
+
+
 
 
