@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact&show_icons=true&bg_color=30,00f5ff,ff00ff,233aa8&title_color=000000&text_color=000000)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=scherenhaenden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
