@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- GitHub Activity Graph -->
+[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=1a1b27&color=ffffff&line=f97583&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=30,00f5ff,ff00ff,233aa8&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=scherenhaenden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,233aa8&title_color=000000&text_color=000000)
 
 
@@ -22,7 +31,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&layout=compact&show_icons=true&bg_color=30,00f5ff,ff00ff,233aa8&title_color=000000&text_color=000000)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=scherenhaenden&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Stats Card -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=ffffff&text_color=ffffff)
@@ -42,8 +50,7 @@ Here are some ideas to get you started:
 <!-- Readme Typing SVG (Animated Typing Effect) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+scherenhaenden;Welcome+to+my+profile!)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<!-- GitHub Activity Graph -->
-[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=1a1b27&color=ffffff&line=f97583&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!-- Profile View Counter -->
@@ -93,6 +100,21 @@ Here are some ideas to get you started:
 
 <!-- YouTube Latest Videos -->
 ![YouTube](https://github-readme-youtube.vercel.app/api?channel_id=your_channel_id)
+
+![GitHub stats - Last Week](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=ffffff&text_color=ffffff&time_range=LAST_WEEK)
+
+![GitHub stats - Last Month](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=ffffff&text_color=ffffff&time_range=LAST_MONTH)
+
+![Waketime](https://github-readme-stats.vercel.app/api/wakatime?username=scherenhaenden&show_icons=true&hide_border=true&line_height=27&display_name=scherenhaenden&theme=react&hide=stars,issues)
+
+![Stars per Language](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&show_owner=true&cache_seconds=86400)
+
+<img src="https://raw.githubusercontent.com/scherenhaenden/scherenhaenden/master/github-contribution-grid-snake.svg" alt="snake"></img>
+
+[![GitHub Skyline](https://skyline.github.com/scherenhaenden/scherenhaenden.png)](https://skyline.github.com/scherenhaenden/scherenhaenden)
+
+
+![Dev.to](https://github-readme-devto.vercel.app/api/articles?username=your_devto_username)  (Replace with your Dev.to username)
 
 
 
