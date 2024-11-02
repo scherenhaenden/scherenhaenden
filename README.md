@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 <!-- GitHub Activity Graph -->
 [![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=scherenhaenden&bg_color=1a1b27&color=ffffff&line=f97583&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![scherenhaenden's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scherenhaenden&bg_color=1a1b27&color=ffffff&line=f97583&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- Profile View Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=scherenhaenden&color=brightgreen)
 
