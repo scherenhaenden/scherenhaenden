@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000&title_color=ffffff&text_color=ffffff)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scherenhaenden&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scherenhaenden&show_icons=true&bg_color=30,00f5ff,ff00ff,000000)
